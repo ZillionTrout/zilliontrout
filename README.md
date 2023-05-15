@@ -4,7 +4,7 @@ Hello! I'm Estefania, a fullstack developer. I have recently finished my studies
 
 Below, I provide you with more details about my training and professional experience:
 
-### Education:
+### Education
 
 :computer: Ironhack 2022-2023
 
