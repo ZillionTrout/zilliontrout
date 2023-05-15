@@ -1,4 +1,4 @@
-# Hi there :wind_chime:
+# Hi :wind_chime:
 
 Hello! I'm Estefania, a fullstack developer. I have recently finished my studies at Ironhack Spain and, while looking for a job, I continue to expand my knowledge through new challenges.
 
@@ -8,7 +8,7 @@ Below, I provide you with more details about my training and professional experi
 
 :computer: Ironhack 2022-2023
 
-### Technical Skills:
+### Technical Skills
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +46,7 @@ In collaboration in [Pau Bertolín](https://github.com/paubertolinros)
   - [Deployed version](https://inkedin.fly.dev/)
   - [Presentation slides](https://www.slides.com)
 
-## Contact me:
+## Contact me
 
 * :e-mail: estefania.egcal@gmail.com
 * :ballot_box_with_check: [Linkedin](https://www.linkedin.com/in/estefania-egea-calcena/)
