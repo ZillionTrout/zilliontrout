@@ -9,7 +9,7 @@ Below, I provide you with more details about my training and professional experi
 :computer: Ironhack 2022-2023
 
 ### Technical Skills:
-```
+
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -24,10 +24,9 @@ Below, I provide you with more details about my training and professional experi
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-```
 
 ### Notable projects
-```
+
 - RINDER: 
   FRONTEND
     - [Presentation slides](https://slides.com/estefaniaegeacalcena/deck-86220e)
@@ -46,12 +45,12 @@ In collaboration in [Pau Bertolín](https://github.com/paubertolinros)
   - [Trello kanban](https://trello.com/b/h4l8ecjZ/inked-in)
   - [Deployed version](https://inkedin.fly.dev/)
   - [Presentation slides](https://www.slides.com)
-```
+
 ### Contact me:
-```
+
 :e-mail: estefania.egcal@gmail.com
 :ballot_box_with_check: [Linkedin](https://www.linkedin.com/in/estefania-egea-calcena/)
-```
+
 <!--
 **ZillionTrout/zilliontrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
