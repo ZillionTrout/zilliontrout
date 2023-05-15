@@ -46,12 +46,11 @@ In collaboration in [Pau Bertolín](https://github.com/paubertolinros)
   - [Deployed version](https://inkedin.fly.dev/)
   - [Presentation slides](https://www.slides.com)
 
-### Contact me:
+## Contact me:
 
 * :e-mail: estefania.egcal@gmail.com
 * :ballot_box_with_check: [Linkedin](https://www.linkedin.com/in/estefania-egea-calcena/)
 
-## Bye
 
 <!--
 **ZillionTrout/zilliontrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
