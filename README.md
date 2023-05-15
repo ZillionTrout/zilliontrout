@@ -28,12 +28,12 @@ Below, I provide you with more details about my training and professional experi
 ### Notable projects
 
 - RINDER: 
-  FRONTEND
+  - FRONTEND
     - [Presentation slides](https://slides.com/estefaniaegeacalcena/deck-86220e)
     - [Frontend repository](https://github.com/ZillionTrout/RINDER-Frontend)
     - [Frontend deploy](https://rollrinder.netlify.app/)
     - [Deployed REST API](https://rinder.fly.dev/)
-  BACKEND
+  - BACKEND
     - [Presentation slides](https://slides.com/estefaniaegeacalcena/deck-86220e)
     - [Backend repository](https://github.com/ZillionTrout/RINDER-Backend)
     - [Backend deploy](https://rinder.fly.dev/)
