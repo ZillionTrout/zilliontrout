@@ -48,8 +48,10 @@ In collaboration in [Pau Bertolín](https://github.com/paubertolinros)
 
 ### Contact me:
 
-:e-mail: estefania.egcal@gmail.com
-:ballot_box_with_check: [Linkedin](https://www.linkedin.com/in/estefania-egea-calcena/)
+* :e-mail: estefania.egcal@gmail.com
+* :ballot_box_with_check: [Linkedin](https://www.linkedin.com/in/estefania-egea-calcena/)
+
+![bye](https://i.gifer.com/origin/3f/3f1d28bba304699e058d3e3230ce87ad.gif)
 
 <!--
 **ZillionTrout/zilliontrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
