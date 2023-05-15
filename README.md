@@ -8,7 +8,7 @@ Below, I provide you with more details about my training and professional experi
 
 :computer: Ironhack 2022-2023
 
-### Technical Skills:
+### [Technical Skills:]()
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +51,7 @@ In collaboration in [Pau Bertolín](https://github.com/paubertolinros)
 * :e-mail: estefania.egcal@gmail.com
 * :ballot_box_with_check: [Linkedin](https://www.linkedin.com/in/estefania-egea-calcena/)
 
-![bye](https://i.gifer.com/origin/3f/3f1d28bba304699e058d3e3230ce87ad.gif)
+## Bye
 
 <!--
 **ZillionTrout/zilliontrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
